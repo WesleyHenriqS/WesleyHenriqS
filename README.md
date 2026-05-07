@@ -21,7 +21,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me </h3>
+<h3 align="left">👩‍💻  About Me <br></br> Student of Systems Analysis and Development </h3>
 
 ###
 
