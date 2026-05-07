@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm from Recife/PE <br><br>- 🔭 I’m working as Unimed-Recife<br>- 📚 I'm currently learning Systems analysis and development<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm from Recife/PE <br><br>- 🔭 I’m working as Unimed-Recife<br>- 📚 I'm currently learning Systems analysis and development<br>- ⚡ In my free time I Study and Read</p>
 
 ###
 
